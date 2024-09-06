@@ -155,7 +155,7 @@ p.texto {
 }
 
 .grid a {
-    color: rgb(230,255,230);
+    color: rgb(190,255,190);
     text-decoration: none;
 }
 
@@ -166,7 +166,7 @@ p.texto {
 .grid-cell {
     margin: 0.1rem;
     border: 1px solid rgb(50, 100, 100);
-    padding: 1rem;
+    padding: 0.5rem;
     text-align: center;
     font-size: 1rem;
     border-radius: 0.3rem;
@@ -179,7 +179,8 @@ p.texto {
 }
 
 .grid-cell > img{
-    width:100%
+    width:100%;
+    border-radius: 0.3rem;
 }
 
 .roll {
